@@ -1,18 +1,3 @@
-## Our resources
-
-🧷 [Documentation + Dorahacks submission](https://dorahacks.io/buidl/6503)
-
-🧷 [Pitch video](https://youtu.be/k-ocFe_NTvE)
-
-🧷 [Code repository](https://github.com/rolled-bit/rolled-bit/)
-
-🧷 [How to run nodes](https://github.com/rolled-bit/rolled-bit/blob/main/README.md)
-
-🧷 [RPC documentation](https://github.com/rolled-bit/rolled-bit/blob/main/RPC.md)
-
-🧷 [Try it out](https://github.com/rolled-bit/rolled-bit/blob/main/try-it-out.md)
-
-## Running the node
 
 ### Dependencies
 
@@ -24,7 +9,7 @@
 Clone this repository to your computer, either through the Github site or using the command line:
 
 ```
-git clone https://github.com/rolled-bit/rolled-bit.git
+git clone https://github.com/ShivamAgarwal-code/light-bit.git
 ```
 
 In the downloaded folder, install all the needed NPM packages:
